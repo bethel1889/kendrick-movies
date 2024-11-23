@@ -1,0 +1,95 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment Variables
+.env
+.env.*.local
+
+# Build Outputs
+dist/
+build/
+public/
+out/
+
+# IDE/Editor-specific Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# OS-Specific Files
+.DS_Store
+Thumbs.db
+
+# Cache Files
+.cache/
+.nyc_output/
+coverage/
+temp/
+tmp/
+
+# Testing Output
+coverage/
+*.lcov
+
+# Babel Cache
+.babelrc
+.babelrc.js
+.babelrc.json
+.babelrc.cjs
+.babelignore
+
+# Parcel Cache
+.parcel-cache/
+
+# Webpack Cache
+webpack-stats.json
+
+# Lint Caches
+.eslintcache
+.stylelintcache
+
+# TypeScript
+*.tsbuildinfo
+
+# Package Lock Files (if not using npm, remove the relevant one)
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Prettier Files
+.prettiercache
+
+# Optional
+# Uncomment the below if you use the corresponding tools/frameworks
+
+# React Native
+# android/
+# ios/
+# *.keystore
+
+# SvelteKit
+# .svelte-kit/
+
+# Next.js
+# .next/
+
+# Nuxt.js
+# .nuxt/
+
+# Angular
+# .angular/
+
+*Identifier
+*Identifier
+
